@@ -26,7 +26,6 @@ body{
     bottom: 149px;
     opacity: 50%;
     transform-origin: 0% 100%;
-    transition: all 0.01 ease-in-out;
 }
 
 #minutes-hand{
